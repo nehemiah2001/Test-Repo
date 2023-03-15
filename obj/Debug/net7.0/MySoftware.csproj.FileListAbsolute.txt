@@ -1,0 +1,15 @@
+/Users/user/Documents/MySoftware/bin/Debug/net7.0/MySoftware
+/Users/user/Documents/MySoftware/bin/Debug/net7.0/MySoftware.deps.json
+/Users/user/Documents/MySoftware/bin/Debug/net7.0/MySoftware.runtimeconfig.json
+/Users/user/Documents/MySoftware/bin/Debug/net7.0/MySoftware.dll
+/Users/user/Documents/MySoftware/bin/Debug/net7.0/MySoftware.pdb
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.csproj.AssemblyReference.cache
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.AssemblyInfoInputs.cache
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.AssemblyInfo.cs
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.csproj.CoreCompileInputs.cache
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.dll
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/refint/MySoftware.dll
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.pdb
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/MySoftware.genruntimeconfig.cache
+/Users/user/Documents/MySoftware/obj/Debug/net7.0/ref/MySoftware.dll
